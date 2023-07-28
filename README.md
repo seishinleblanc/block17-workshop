@@ -1,1 +1,1 @@
-These are exercises designed to improve problem solving skills.
+A set of challenges meant to improve JavaScript problem solving strategies.
