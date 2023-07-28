@@ -1,1 +1,1 @@
-# block17-workshop
+These are exercises designed to improve problem solving skills.
